@@ -1,0 +1,31 @@
+# Ef-Bio Colors
+background = #111111
+foreground = #cfdfd5
+selection-background = #3a3027
+selection-foreground = #cfdfd5
+cursor-color = #35f038
+
+# black
+palette = 0=#222522
+palette = 8=#505250
+# red
+palette = 1=#ef6560
+palette = 9=#ff778f
+# green
+palette = 2=#3fb83f
+palette = 10=#00c089
+# yellow
+palette = 3=#d4aa02
+palette = 11=#cfc04f
+# blue
+palette = 4=#37aff6
+palette = 12=#32cfef
+# magenta
+palette = 5=#d38faf
+palette = 13=#af9fff
+# cyan
+palette = 6=#6fc5ef
+palette = 14=#5dc0aa
+# white
+palette = 7=#cfdfd5
+palette = 15=#808f80

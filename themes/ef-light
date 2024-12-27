@@ -1,0 +1,31 @@
+# Ef-Light Colors
+background = #ffffff
+foreground = #202020
+selection-background = #bfefff
+selection-foreground = #202020
+cursor-color = #0033cc
+
+# black
+palette = 0=#efefef
+palette = 8=#b3b3b3
+# red
+palette = 1=#d3303a
+palette = 9=#d50f7f
+# green
+palette = 2=#217a3c
+palette = 10=#008858
+# yellow
+palette = 3=#a45f22
+palette = 11=#b65050
+# blue
+palette = 4=#3740cf
+palette = 12=#065fff
+# magenta
+palette = 5=#ba35af
+palette = 13=#6052cf
+# cyan
+palette = 6=#1f6fbf
+palette = 14=#1f77bb
+# white
+palette = 7=#202020
+palette = 15=#70627f

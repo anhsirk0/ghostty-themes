@@ -1,0 +1,31 @@
+# Ef-Dark Colors
+background = #000000
+foreground = #d0d0d0
+selection-background = #2a234a
+selection-foreground = #d0d0d0
+cursor-color = #ff76ff
+
+# black
+palette = 0=#1a1a1a
+palette = 8=#4b4b4b
+# red
+palette = 1=#ef6560
+palette = 9=#ff5a7a
+# green
+palette = 2=#0faa26
+palette = 10=#00a692
+# yellow
+palette = 3=#bf9032
+palette = 11=#df8a5a
+# blue
+palette = 4=#3f95f6
+palette = 12=#029fff
+# magenta
+palette = 5=#d369af
+palette = 13=#af85ff
+# cyan
+palette = 6=#4fbaef
+palette = 14=#1dbfcf
+# white
+palette = 7=#d0d0d0
+palette = 15=#857f8f

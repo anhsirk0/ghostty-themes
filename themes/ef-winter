@@ -1,0 +1,31 @@
+# Ef-Winter Colors
+background = #0f0b15
+foreground = #b8c6d5
+selection-background = #342464
+selection-foreground = #b8c6d5
+cursor-color = #ff6ff0
+
+# black
+palette = 0=#1d202f
+palette = 8=#4a4f62
+# red
+palette = 1=#f47359
+palette = 9=#ff6a7a
+# green
+palette = 2=#29a444
+palette = 10=#00a392
+# yellow
+palette = 3=#b58a52
+palette = 11=#df9080
+# blue
+palette = 4=#3f95f6
+palette = 12=#029fff
+# magenta
+palette = 5=#d369af
+palette = 13=#af85ea
+# cyan
+palette = 6=#4fbaef
+palette = 14=#35afbf
+# white
+palette = 7=#b8c6d5
+palette = 15=#807c9f

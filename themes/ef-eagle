@@ -1,0 +1,31 @@
+# Ef-Eagle Colors
+background = #f1ecd0
+foreground = #231a1f
+selection-background = #ddc5af
+selection-foreground = #231a1f
+cursor-color = #774400
+
+# black
+palette = 0=#e4dbc0
+palette = 8=#aea88e
+# red
+palette = 1=#882000
+palette = 9=#8f0038
+# green
+palette = 2=#226022
+palette = 10=#006e50
+# yellow
+palette = 3=#6b4500
+palette = 11=#775228
+# blue
+palette = 4=#113384
+palette = 12=#000080
+# magenta
+palette = 5=#822478
+palette = 13=#50119f
+# cyan
+palette = 6=#125a7f
+palette = 14=#00676f
+# white
+palette = 7=#231a1f
+palette = 15=#685f53

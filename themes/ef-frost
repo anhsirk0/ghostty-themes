@@ -1,0 +1,31 @@
+# Ef-Frost Colors
+background = #fcffff
+foreground = #232323
+selection-background = #d4eaf3
+selection-foreground = #232323
+cursor-color = #0055bb
+
+# black
+palette = 0=#eaefef
+palette = 8=#b5b8b8
+# red
+palette = 1=#c42d2f
+palette = 9=#cf2f4f
+# green
+palette = 2=#008a00
+palette = 10=#00845f
+# yellow
+palette = 3=#aa6100
+palette = 11=#996c4f
+# blue
+palette = 4=#004fc0
+palette = 12=#065fff
+# magenta
+palette = 5=#aa44c5
+palette = 13=#7f5ae0
+# cyan
+palette = 6=#1f6fbf
+palette = 14=#007a85
+# white
+palette = 7=#232323
+palette = 15=#66657f

@@ -1,0 +1,31 @@
+# Ef-Elea-Light Colors
+background = #edf5e2
+foreground = #221321
+selection-background = #d9d2ef
+selection-foreground = #221321
+cursor-color = #770080
+
+# black
+palette = 0=#e3e9d6
+palette = 8=#b0b7aa
+# red
+palette = 1=#c3303a
+palette = 9=#b02440
+# green
+palette = 2=#00601f
+palette = 10=#007047
+# yellow
+palette = 3=#9a501f
+palette = 11=#88541f
+# blue
+palette = 4=#375cc6
+palette = 12=#162f8f
+# magenta
+palette = 5=#80308f
+palette = 13=#5032aa
+# cyan
+palette = 6=#1f70af
+palette = 14=#00677f
+# white
+palette = 7=#221321
+palette = 15=#676470

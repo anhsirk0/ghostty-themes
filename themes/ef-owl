@@ -1,0 +1,31 @@
+# Ef-Owl Colors
+background = #292c2f
+foreground = #d0d0d0
+selection-background = #404f66
+selection-foreground = #d0d0d0
+cursor-color = #afe6ef
+
+# black
+palette = 0=#373b3d
+palette = 8=#60676b
+# red
+palette = 1=#d67869
+palette = 9=#e4959f
+# green
+palette = 2=#70bb70
+palette = 10=#60bd90
+# yellow
+palette = 3=#c09f6f
+palette = 11=#cf9f90
+# blue
+palette = 4=#80a4e0
+palette = 12=#72aff0
+# magenta
+palette = 5=#e5a0ea
+palette = 13=#cfa0e8
+# cyan
+palette = 6=#8fb8ea
+palette = 14=#7ac0b9
+# white
+palette = 7=#d0d0d0
+palette = 15=#857f8f

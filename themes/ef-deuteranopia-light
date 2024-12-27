@@ -1,0 +1,31 @@
+# Ef-Deuteranopia-Light Colors
+background = #f5f5ff
+foreground = #1a1a2f
+selection-background = #dadadf
+selection-foreground = #1a1a2f
+cursor-color = #0000bb
+
+# black
+palette = 0=#e8e8ea
+palette = 8=#b3b3c0
+# red
+palette = 1=#d3303a
+palette = 9=#d50f7f
+# green
+palette = 2=#217a3c
+palette = 10=#008058
+# yellow
+palette = 3=#805d00
+palette = 11=#765040
+# blue
+palette = 4=#375cd8
+palette = 12=#065fff
+# magenta
+palette = 5=#ba35af
+palette = 13=#6052cf
+# cyan
+palette = 6=#1f6fbf
+palette = 14=#1f77bb
+# white
+palette = 7=#1a1a2f
+palette = 15=#70627f

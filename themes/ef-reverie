@@ -1,0 +1,31 @@
+# Ef-Reverie Colors
+background = #f3eddf
+foreground = #4f204f
+selection-background = #e0d0ba
+selection-foreground = #4f204f
+cursor-color = #9d5744
+
+# black
+palette = 0=#e5d6d4
+palette = 8=#b9aaa8
+# red
+palette = 1=#ba2d2f
+palette = 9=#a83058
+# green
+palette = 2=#007a0a
+palette = 10=#008250
+# yellow
+palette = 3=#87591f
+palette = 11=#906045
+# blue
+palette = 4=#375cc6
+palette = 12=#265fbf
+# magenta
+palette = 5=#9f4e74
+palette = 13=#7755b4
+# cyan
+palette = 6=#3060af
+palette = 14=#0b6e8a
+# white
+palette = 7=#4f204f
+palette = 15=#6f6877

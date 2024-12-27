@@ -1,0 +1,31 @@
+# Ef-Night Colors
+background = #000e17
+foreground = #afbcbf
+selection-background = #253146
+selection-foreground = #afbcbf
+cursor-color = #00ccff
+
+# black
+palette = 0=#1a202b
+palette = 8=#444e59
+# red
+palette = 1=#ef656a
+palette = 9=#ef798f
+# green
+palette = 2=#1fa526
+palette = 10=#00a972
+# yellow
+palette = 3=#c48502
+palette = 11=#df8f6f
+# blue
+palette = 4=#379cf6
+palette = 12=#029fff
+# magenta
+palette = 5=#d570af
+palette = 13=#af8aff
+# cyan
+palette = 6=#4fb0cf
+palette = 14=#3dc0b0
+# white
+palette = 7=#afbcbf
+palette = 15=#70819f

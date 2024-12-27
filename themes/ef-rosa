@@ -1,0 +1,31 @@
+# Ef-Rosa Colors
+background = #322023
+foreground = #e4d3e1
+selection-background = #45524a
+selection-foreground = #e4d3e1
+cursor-color = #ef607a
+
+# black
+palette = 0=#432e32
+palette = 8=#6a5862
+# red
+palette = 1=#ff707f
+palette = 9=#f0888f
+# green
+palette = 2=#5fbb5f
+palette = 10=#49d081
+# yellow
+palette = 3=#e4c53f
+palette = 11=#eec26f
+# blue
+palette = 4=#57aff6
+palette = 12=#62cff7
+# magenta
+palette = 5=#ffb2d6
+palette = 13=#cfb1ff
+# cyan
+palette = 6=#5fc0dc
+palette = 14=#80dfbf
+# white
+palette = 7=#e4d3e1
+palette = 15=#9d9d9d

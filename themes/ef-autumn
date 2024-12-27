@@ -1,0 +1,31 @@
+# Ef-Autumn Colors
+background = #0f0e06
+foreground = #cfbcba
+selection-background = #3f1324
+selection-foreground = #cfbcba
+cursor-color = #ffaa33
+
+# black
+palette = 0=#26211d
+palette = 8=#56524f
+# red
+palette = 1=#ef656a
+palette = 9=#ff7a7f
+# green
+palette = 2=#2fa526
+palette = 10=#00b066
+# yellow
+palette = 3=#c48702
+palette = 11=#df8f6f
+# blue
+palette = 4=#379cf6
+palette = 12=#029fff
+# magenta
+palette = 5=#d570af
+palette = 13=#af8aff
+# cyan
+palette = 6=#4fb0cf
+palette = 14=#3dbbb0
+# white
+palette = 7=#cfbcba
+palette = 15=#887c8a

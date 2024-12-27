@@ -1,0 +1,31 @@
+# Ef-Trio-Light Colors
+background = #f8f5ff
+foreground = #4f3363
+selection-background = #eed0ff
+selection-foreground = #4f3363
+cursor-color = #4f45ff
+
+# black
+palette = 0=#ebe7f1
+palette = 8=#c3c0c9
+# red
+palette = 1=#c3303a
+palette = 9=#c01f5f
+# green
+palette = 2=#057800
+palette = 10=#007f6f
+# yellow
+palette = 3=#a45f22
+palette = 11=#b65050
+# blue
+palette = 4=#375cd6
+palette = 12=#065fbf
+# magenta
+palette = 5=#ad45ba
+palette = 13=#705ae3
+# cyan
+palette = 6=#1f6fbf
+palette = 14=#0f7a9d
+# white
+palette = 7=#4f3363
+palette = 15=#786e74

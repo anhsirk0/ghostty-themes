@@ -1,0 +1,31 @@
+# Ef-Cherie Colors
+background = #190a0f
+foreground = #d3cfcf
+selection-background = #232f3f
+selection-foreground = #d3cfcf
+cursor-color = #ff5aaf
+
+# black
+palette = 0=#291f26
+palette = 8=#594a4f
+# red
+palette = 1=#ff7359
+palette = 9=#ff78aa
+# green
+palette = 2=#60b444
+palette = 10=#60bf88
+# yellow
+palette = 3=#e5b76f
+palette = 11=#f59280
+# blue
+palette = 4=#8fa5f6
+palette = 12=#7fa5ff
+# magenta
+palette = 5=#ef80bf
+palette = 13=#df7fff
+# cyan
+palette = 6=#8fbaef
+palette = 14=#8fcfdf
+# white
+palette = 7=#d3cfcf
+palette = 15=#808898

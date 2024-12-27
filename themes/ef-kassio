@@ -1,0 +1,31 @@
+# Ef-Kassio Colors
+background = #fff7f7
+foreground = #201f36
+selection-background = #dfe4f4
+selection-foreground = #201f36
+cursor-color = #d06f30
+
+# black
+palette = 0=#efe7e7
+palette = 8=#c0bbbb
+# red
+palette = 1=#b00234
+palette = 9=#d5305f
+# green
+palette = 2=#217a3c
+palette = 10=#008358
+# yellow
+palette = 3=#9a6012
+palette = 11=#a04646
+# blue
+palette = 4=#3c3bbe
+palette = 12=#065fff
+# magenta
+palette = 5=#a01f64
+palette = 13=#7022bf
+# cyan
+palette = 6=#2f5f9f
+palette = 14=#1077ab
+# white
+palette = 7=#201f36
+palette = 15=#776f79

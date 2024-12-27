@@ -1,0 +1,31 @@
+# Modus-Vivendi-Tritanopia Colors
+background = #000000
+foreground = #ffffff
+selection-background = #5a5a5a
+selection-foreground = #ffffff
+cursor-color = #ffffff
+
+# black
+palette = 0=#1e1e1e
+palette = 8=#535353
+# red
+palette = 1=#ff5f59
+palette = 9=#ff6f9f
+# green
+palette = 2=#44bc44
+palette = 10=#00c06f
+# yellow
+palette = 3=#cabf00
+palette = 11=#d8af7a
+# blue
+palette = 4=#2fafff
+palette = 12=#00bcff
+# magenta
+palette = 5=#feacd0
+palette = 13=#b6a0ff
+# cyan
+palette = 6=#00d3d0
+palette = 14=#6ae4b9
+# white
+palette = 7=#ffffff
+palette = 15=#989898

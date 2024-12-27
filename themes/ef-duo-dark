@@ -1,0 +1,31 @@
+# Ef-Duo-Dark Colors
+background = #070019
+foreground = #d0d0d0
+selection-background = #042a50
+selection-foreground = #d0d0d0
+cursor-color = #ef6f11
+
+# black
+palette = 0=#1d1a26
+palette = 8=#4a4759
+# red
+palette = 1=#ef656a
+palette = 9=#ef798f
+# green
+palette = 2=#1fa526
+palette = 10=#00b982
+# yellow
+palette = 3=#c48702
+palette = 11=#df805f
+# blue
+palette = 4=#379cf6
+palette = 12=#029fff
+# magenta
+palette = 5=#d369af
+palette = 13=#af85ff
+# cyan
+palette = 6=#5faaef
+palette = 14=#0dafdf
+# white
+palette = 7=#d0d0d0
+palette = 15=#857f8f

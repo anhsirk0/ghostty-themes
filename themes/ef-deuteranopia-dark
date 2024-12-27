@@ -1,0 +1,31 @@
+# Ef-Deuteranopia-Dark Colors
+background = #000a1f
+foreground = #ddddee
+selection-background = #223848
+selection-foreground = #ddddee
+cursor-color = #ffff00
+
+# black
+palette = 0=#121f34
+palette = 8=#445165
+# red
+palette = 1=#cf8560
+palette = 9=#cf7a7a
+# green
+palette = 2=#3faa26
+palette = 10=#3fa672
+# yellow
+palette = 3=#aa9f32
+palette = 11=#bfaf7a
+# blue
+palette = 4=#3f90f0
+palette = 12=#009fff
+# magenta
+palette = 5=#b379bf
+palette = 13=#9f95ff
+# cyan
+palette = 6=#5faaef
+palette = 14=#0db0ff
+# white
+palette = 7=#ddddee
+palette = 15=#7f8797

@@ -1,0 +1,31 @@
+# Ef-Elea-Dark Colors
+background = #222524
+foreground = #eaf2ef
+selection-background = #543040
+selection-foreground = #eaf2ef
+cursor-color = #ef7fa8
+
+# black
+palette = 0=#303332
+palette = 8=#5e6160
+# red
+palette = 1=#ff656a
+palette = 9=#fa7f88
+# green
+palette = 2=#7fc87f
+palette = 10=#50cf89
+# yellow
+palette = 3=#cac85f
+palette = 11=#cfb27f
+# blue
+palette = 4=#57aff6
+palette = 12=#62cfef
+# magenta
+palette = 5=#f59acf
+palette = 13=#cfaaff
+# cyan
+palette = 6=#6fcfd2
+palette = 14=#60d5c2
+# white
+palette = 7=#eaf2ef
+palette = 15=#969faf

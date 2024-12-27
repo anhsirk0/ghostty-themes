@@ -1,0 +1,31 @@
+# Ef-Arbutus Colors
+background = #ffead8
+foreground = #393330
+selection-background = #dbe0c0
+selection-foreground = #393330
+cursor-color = #208f10
+
+# black
+palette = 0=#f0d8cf
+palette = 8=#c7b2ab
+# red
+palette = 1=#b0000f
+palette = 9=#aa184f
+# green
+palette = 2=#007000
+palette = 10=#00704f
+# yellow
+palette = 3=#906200
+palette = 11=#8a6340
+# blue
+palette = 4=#375cc6
+palette = 12=#265fbf
+# magenta
+palette = 5=#a23ea4
+palette = 13=#6448ca
+# cyan
+palette = 6=#3f69af
+palette = 14=#0f7688
+# white
+palette = 7=#393330
+palette = 15=#6e678f

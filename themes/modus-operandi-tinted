@@ -1,0 +1,31 @@
+# Modus-Operandi-Tinted Colors
+background = #fbf7f0
+foreground = #000000
+selection-background = #c2bcb5
+selection-foreground = #000000
+cursor-color = #000000
+
+# black
+palette = 0=#efe9dd
+palette = 8=#c9b9b0
+# red
+palette = 1=#a60000
+palette = 9=#a0132f
+# green
+palette = 2=#006800
+palette = 10=#00663f
+# yellow
+palette = 3=#6f5500
+palette = 11=#7a4f2f
+# blue
+palette = 4=#0031a9
+palette = 12=#0000b0
+# magenta
+palette = 5=#721045
+palette = 13=#531ab6
+# cyan
+palette = 6=#005e8b
+palette = 14=#005f5f
+# white
+palette = 7=#000000
+palette = 15=#595959

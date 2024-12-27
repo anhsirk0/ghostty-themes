@@ -1,0 +1,31 @@
+# Ef-Melissa-Dark Colors
+background = #352718
+foreground = #e8e4b1
+selection-background = #443a4f
+selection-foreground = #e8e4b1
+cursor-color = #f9cf7a
+
+# black
+palette = 0=#483426
+palette = 8=#79665f
+# red
+palette = 1=#ff7f7f
+palette = 9=#ff8f98
+# green
+palette = 2=#6fd560
+palette = 10=#65d590
+# yellow
+palette = 3=#e4b53f
+palette = 11=#e7a06f
+# blue
+palette = 4=#57aff6
+palette = 12=#62cfef
+# magenta
+palette = 5=#f0aac5
+palette = 13=#c6a2fe
+# cyan
+palette = 6=#6fcad0
+palette = 14=#70e0cf
+# white
+palette = 7=#e8e4b1
+palette = 15=#90918a

@@ -1,0 +1,31 @@
+# Ef-Dream Colors
+background = #232025
+foreground = #efd5c5
+selection-background = #544a50
+selection-foreground = #efd5c5
+cursor-color = #f3c09a
+
+# black
+palette = 0=#322f34
+palette = 8=#5b595e
+# red
+palette = 1=#ff6f6f
+palette = 9=#e47980
+# green
+palette = 2=#51b04f
+palette = 10=#3fc489
+# yellow
+palette = 3=#c0b24f
+palette = 11=#deb07a
+# blue
+palette = 4=#57b0ff
+palette = 12=#12b4ff
+# magenta
+palette = 5=#ffaacf
+palette = 13=#d0b0ff
+# cyan
+palette = 6=#6fb3c0
+palette = 14=#65c5a8
+# white
+palette = 7=#efd5c5
+palette = 15=#8f8886

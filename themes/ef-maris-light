@@ -1,0 +1,31 @@
+# Ef-Maris-Light Colors
+background = #edf4f8
+foreground = #151a27
+selection-background = #c8dcff
+selection-foreground = #151a27
+cursor-color = #036f99
+
+# black
+palette = 0=#e0e7ef
+palette = 8=#afb8c3
+# red
+palette = 1=#c3303a
+palette = 9=#b02440
+# green
+palette = 2=#007010
+palette = 10=#007047
+# yellow
+palette = 3=#805a1f
+palette = 11=#78542f
+# blue
+palette = 4=#375cc6
+palette = 12=#003faf
+# magenta
+palette = 5=#80308f
+palette = 13=#5f2fba
+# cyan
+palette = 6=#1f66af
+palette = 14=#006f70
+# white
+palette = 7=#151a27
+palette = 15=#676470

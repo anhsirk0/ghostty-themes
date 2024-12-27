@@ -1,0 +1,31 @@
+# Ef-Tritanopia-Dark Colors
+background = #15050f
+foreground = #dfd0d5
+selection-background = #293140
+selection-foreground = #dfd0d5
+cursor-color = #fd3333
+
+# black
+palette = 0=#282026
+palette = 8=#554f4f
+# red
+palette = 1=#cf4f5f
+palette = 9=#d24f7f
+# green
+palette = 2=#2fa526
+palette = 10=#00b066
+# yellow
+palette = 3=#c48702
+palette = 11=#df8f6f
+# blue
+palette = 4=#379cf6
+palette = 12=#029fff
+# magenta
+palette = 5=#b0648f
+palette = 13=#a6699f
+# cyan
+palette = 6=#3fafcf
+palette = 14=#4fafaf
+# white
+palette = 7=#dfd0d5
+palette = 15=#908890
