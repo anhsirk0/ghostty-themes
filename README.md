@@ -17,7 +17,7 @@ config-file = themes/modus-vivendi
 ```
 
 ### Colors
-Pictures: https://wezfurlong.org/ghostty/colorschemes/e/index.html#ef-autumn
+Pictures: https://wezfurlong.org/wezterm/colorschemes/e/index.html#ef-autumn
 Ef-themes pictures (emacs): https://protesilaos.com/emacs/ef-themes-pictures  
 
 ## Ef-Cherie theme
