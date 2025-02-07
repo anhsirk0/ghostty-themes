@@ -13,7 +13,10 @@ Clone the repo and place `themes` into ~/.config/ghostty/
 Update your ghostty config file
 ```text
 # ~/.config/ghostty/config
-config-file = themes/modus-vivendi
+theme = modus-vivendi
+
+# or with light and dark theme support
+theme = light:modus-operandi,dark:modus-vivendi
 ```
 
 ### Colors
