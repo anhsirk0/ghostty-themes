@@ -1,0 +1,31 @@
+# Doric-Earth Colors
+background = #f0eddf
+foreground = #000000
+selection-background = #c09fa0
+selection-foreground = #000000
+cursor-color = #770000
+
+# black
+palette = 0=#dfd8c8
+palette = 8=#dfd8c8
+# red
+palette = 1=#750000
+palette = 9=#750000
+# green
+palette = 2=#056100
+palette = 10=#056100
+# yellow
+palette = 3=#5f4602
+palette = 11=#5f4602
+# blue
+palette = 4=#353362
+palette = 12=#353362
+# magenta
+palette = 5=#553372
+palette = 13=#553372
+# cyan
+palette = 6=#35485e
+palette = 14=#35485e
+# white
+palette = 7=#000000
+palette = 15=#000000

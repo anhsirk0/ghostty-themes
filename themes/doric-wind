@@ -1,0 +1,31 @@
+# Doric-Wind Colors
+background = #e8f0e9
+foreground = #000000
+selection-background = #8fbbbe
+selection-foreground = #000000
+cursor-color = #000077
+
+# black
+palette = 0=#d3dbd9
+palette = 8=#d3dbd9
+# red
+palette = 1=#750000
+palette = 9=#750000
+# green
+palette = 2=#00620f
+palette = 10=#00620f
+# yellow
+palette = 3=#5f4602
+palette = 11=#5f4602
+# blue
+palette = 4=#353362
+palette = 12=#353362
+# magenta
+palette = 5=#553372
+palette = 13=#553372
+# cyan
+palette = 6=#35485e
+palette = 14=#35485e
+# white
+palette = 7=#000000
+palette = 15=#000000
