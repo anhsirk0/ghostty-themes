@@ -5,8 +5,9 @@
     + GitHub: <https://github.com/anhsirk0/ghostty-themes>
 
 
-This repo has 42 themes  
-8 from modus-themes and 34 from ef-themes  
+This repo has 48 themes  
+8 from modus-themes, 6 from doric-themes and 34 from ef-themes  
+
 
 ### Usage
 Clone the repo and place `themes` into ~/.config/ghostty/  
@@ -22,6 +23,7 @@ theme = light:modus-operandi,dark:modus-vivendi
 ### Colors
 Pictures (wezterm): https://wezfurlong.org/wezterm/colorschemes/e/index.html#ef-autumn  
 Ef-themes pictures (emacs): https://protesilaos.com/emacs/ef-themes-pictures  
+Doric-themes pictures (emacs): https://protesilaos.com/emacs/doric-themes-pictures  
 
 ## Ef-Cherie theme
 ![ef-cherie](https://i.postimg.cc/43RHdhqR/ef-cherie.png)
@@ -56,4 +58,5 @@ Ef-themes pictures (emacs): https://protesilaos.com/emacs/ef-themes-pictures
 ## Thanks
 Modus themes - https://protesilaos.com/emacs/modus-themes-colors  
 Ef themes - https://protesilaos.com/emacs/ef-themes  
+Doric themes - https://protesilaos.com/emacs/doric-themes  
 
