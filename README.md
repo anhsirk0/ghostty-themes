@@ -5,8 +5,8 @@
     + GitHub: <https://github.com/anhsirk0/ghostty-themes>
 
 
-This repo has 48 themes  
-8 from modus-themes, 6 from doric-themes and 34 from ef-themes  
+This repo has 50 themes  
+8 from modus-themes, 8 from doric-themes and 34 from ef-themes  
 
 
 ### Usage
