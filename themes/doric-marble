@@ -1,13 +1,13 @@
-# Doric-Earth Colors
-background = #f0eddf
-foreground = #1b0d10
-selection-background = #c09fa0
-selection-foreground = #1b0d10
-cursor-color = #770000
+# Doric-Marble Colors
+background = #ededed
+foreground = #202020
+selection-background = #b0b0b0
+selection-foreground = #202020
+cursor-color = #403030
 
 # black
-palette = 0=#dfd8c8
-palette = 8=#dfd8c8
+palette = 0=#dedede
+palette = 8=#dedede
 # red
 palette = 1=#750000
 palette = 9=#750000
@@ -27,5 +27,5 @@ palette = 13=#553372
 palette = 6=#35485e
 palette = 14=#35485e
 # white
-palette = 7=#1b0d10
-palette = 15=#1b0d10
+palette = 7=#202020
+palette = 15=#202020

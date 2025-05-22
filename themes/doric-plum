@@ -1,13 +1,13 @@
-# Doric-Water Colors
-background = #2a283d
-foreground = #f2f5ff
-selection-background = #455eab
-selection-foreground = #f2f5ff
-cursor-color = #99ddee
+# Doric-Plum Colors
+background = #221832
+foreground = #e2d7e7
+selection-background = #604179
+selection-foreground = #e2d7e7
+cursor-color = #c070d0
 
 # black
-palette = 0=#3e4050
-palette = 8=#3e4050
+palette = 0=#382b4e
+palette = 8=#382b4e
 # red
 palette = 1=#dba2a2
 palette = 9=#dba2a2
@@ -27,5 +27,5 @@ palette = 13=#c5a3b2
 palette = 6=#a5bfce
 palette = 14=#a5bfce
 # white
-palette = 7=#f2f5ff
-palette = 15=#f2f5ff
+palette = 7=#e2d7e7
+palette = 15=#e2d7e7
