@@ -6,8 +6,8 @@ selection-foreground = #000000
 cursor-color = #2266bb
 
 # black
-palette = 0=#e2e7e8
-palette = 8=#e2e7e8
+palette = 0=#efeff2
+palette = 8=#efeff2
 # red
 palette = 1=#750000
 palette = 9=#750000

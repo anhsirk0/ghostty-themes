@@ -1,13 +1,13 @@
 # Doric-Cherry Colors
 background = #f7edf1
-foreground = #311926
+foreground = #35292f
 selection-background = #cc95b7
-selection-foreground = #311926
+selection-foreground = #35292f
 cursor-color = #a02050
 
 # black
-palette = 0=#e3d8db
-palette = 8=#e3d8db
+palette = 0=#e5dde0
+palette = 8=#e5dde0
 # red
 palette = 1=#750000
 palette = 9=#750000
@@ -27,5 +27,5 @@ palette = 13=#553372
 palette = 6=#35485e
 palette = 14=#35485e
 # white
-palette = 7=#311926
-palette = 15=#311926
+palette = 7=#35292f
+palette = 15=#35292f

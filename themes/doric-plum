@@ -1,13 +1,13 @@
 # Doric-Plum Colors
 background = #221832
 foreground = #e2d7e7
-selection-background = #604179
+selection-background = #5e4170
 selection-foreground = #e2d7e7
 cursor-color = #c070d0
 
 # black
-palette = 0=#382b4e
-palette = 8=#382b4e
+palette = 0=#302f3c
+palette = 8=#302f3c
 # red
 palette = 1=#dba2a2
 palette = 9=#dba2a2

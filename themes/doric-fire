@@ -1,13 +1,13 @@
 # Doric-Fire Colors
 background = #2a281d
 foreground = #f0e5e0
-selection-background = #742d33
+selection-background = #601a2f
 selection-foreground = #f0e5e0
-cursor-color = #fe7062
+cursor-color = #e06e42
 
 # black
-palette = 0=#45372f
-palette = 8=#45372f
+palette = 0=#40332f
+palette = 8=#40332f
 # red
 palette = 1=#d09090
 palette = 9=#d09090
