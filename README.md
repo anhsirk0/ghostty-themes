@@ -5,8 +5,8 @@
     + GitHub: <https://github.com/anhsirk0/ghostty-themes>
 
 
-This repo has 50 themes  
-8 from modus-themes, 8 from doric-themes and 34 from ef-themes  
+This repo has 52 themes  
+8 from modus-themes, 10 from doric-themes and 34 from ef-themes  
 
 
 ### Usage
@@ -20,43 +20,22 @@ theme = modus-vivendi
 theme = light:modus-operandi,dark:modus-vivendi
 ```
 
-### Colors
+### Pictures
 Pictures (wezterm): https://wezfurlong.org/wezterm/colorschemes/e/index.html#ef-autumn  
+Modus-themes pictures (emacs): https://protesilaos.com/emacs/modus-themes-pictures  
 Ef-themes pictures (emacs): https://protesilaos.com/emacs/ef-themes-pictures  
 Doric-themes pictures (emacs): https://protesilaos.com/emacs/doric-themes-pictures  
 
-## Ef-Cherie theme
-![ef-cherie](https://i.postimg.cc/43RHdhqR/ef-cherie.png)
-
-## Ef-Summer theme
-![ef-summer](https://i.postimg.cc/XqqphKGd/ef-summer.png)
-
-## Ef-Spring theme
-![ef-spring](https://i.postimg.cc/xC0kGV9s/ef-spring.png)
-
-## Ef-Bio theme
-![ef-bio](https://i.postimg.cc/V6DJDZ6z/ef-bio.png)
-
-## Ef-Autumn theme
-![ef-autumn](https://i.postimg.cc/NjmLWjMJ/ef-autumn.png)
-
-## Ef-Trio-Light theme
-![ef-trio-light](https://i.postimg.cc/zvzpBc2D/ef-trio-light.png)
-
-## Ef-Trio-Dark theme
-![ef-trio-dark](https://i.postimg.cc/W4mFJ1cF/ef-trio-dark.png)
-
-## Ef-Winter theme
-![ef-winter](https://i.postimg.cc/d0FDvcZq/ef-winter.png)
-
-## Modus-Operandi theme
-![modus-operandi](https://i.postimg.cc/kgbtqyjy/modus-operandi.png)
-
-## Modus-Vivendi theme
-![modus-vivendi](https://i.postimg.cc/7YcTFRN6/modus-vivendi.png)
-
 ## Thanks
-Modus themes - https://protesilaos.com/emacs/modus-themes-colors  
+Modus themes - https://protesilaos.com/emacs/modus-themes  
 Ef themes - https://protesilaos.com/emacs/ef-themes  
-Doric themes - https://protesilaos.com/emacs/doric-themes  
+Doric themes - https://github.com/protesilaos/doric-themes  
 
+## See also
+Modus, Ef, Doric themes for Alacritty: https://github.com/anhsirk0/alacritty-themes  
+Modus, Ef, Doric themes for Wezterm: https://github.com/anhsirk0/wezterm-themes  
+Modus, Ef, Doric themes for Ghostty: https://github.com/anhsirk0/ghostty-themes  
+Modus, Ef, Doric themes for Awesomewm: https://github.com/anhsirk0/awesome-config  
+Modus, Ef, Doric themes for Rofi: https://github.com/anhsirk0/rofi-config  
+Modus, Ef, Doric themes for Xresources: https://github.com/anhsirk0/xresources-themes  
+Modus, Ef themes for Kakoune: https://github.com/anhsirk0/kakoune-themes  
