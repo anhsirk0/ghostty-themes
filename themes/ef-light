@@ -10,7 +10,7 @@ palette = 0=#efefef
 palette = 8=#b3b3b3
 # red
 palette = 1=#d3303a
-palette = 9=#d50f7f
+palette = 9=#d51272
 # green
 palette = 2=#217a3c
 palette = 10=#008858
@@ -28,4 +28,4 @@ palette = 6=#1f6fbf
 palette = 14=#1f77bb
 # white
 palette = 7=#202020
-palette = 15=#70627f
+palette = 15=#68759f
