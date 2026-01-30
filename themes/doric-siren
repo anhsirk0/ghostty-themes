@@ -1,13 +1,13 @@
-# Doric-Light Colors
-background = #ffffff
-foreground = #000000
-selection-background = #a0bcd0
-selection-foreground = #000000
-cursor-color = #2266bb
+# Doric-Siren Colors
+background = #d9e0ed
+foreground = #001020
+selection-background = #90b0e0
+selection-foreground = #001020
+cursor-color = #2040a0
 
 # black
-palette = 0=#efeff2
-palette = 8=#efeff2
+palette = 0=#c2d1df
+palette = 8=#c2d1df
 # red
 palette = 1=#a01010
 palette = 9=#a01010
@@ -27,5 +27,5 @@ palette = 13=#700d50
 palette = 6=#005355
 palette = 14=#005355
 # white
-palette = 7=#000000
-palette = 15=#000000
+palette = 7=#001020
+palette = 15=#001020

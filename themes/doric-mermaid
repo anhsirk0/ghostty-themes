@@ -1,13 +1,13 @@
-# Doric-Water Colors
-background = #2a283d
-foreground = #edf0f8
-selection-background = #496278
-selection-foreground = #edf0f8
-cursor-color = #99ddee
+# Doric-Mermaid Colors
+background = #2a2f48
+foreground = #dde0f8
+selection-background = #424381
+selection-foreground = #dde0f8
+cursor-color = #e08ca0
 
 # black
-palette = 0=#3a3c4c
-palette = 8=#3a3c4c
+palette = 0=#3c3e55
+palette = 8=#3c3e55
 # red
 palette = 1=#eca28f
 palette = 9=#eca28f
@@ -27,5 +27,5 @@ palette = 13=#e9acbf
 palette = 6=#a0c0d0
 palette = 14=#a0c0d0
 # white
-palette = 7=#edf0f8
-palette = 15=#edf0f8
+palette = 7=#dde0f8
+palette = 15=#dde0f8

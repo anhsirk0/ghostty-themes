@@ -1,0 +1,31 @@
+# Doric-Beach Colors
+background = #eae3d8
+foreground = #213937
+selection-background = #abd2c9
+selection-foreground = #213937
+cursor-color = #3f8cab
+
+# black
+palette = 0=#ded4c0
+palette = 8=#ded4c0
+# red
+palette = 1=#902000
+palette = 9=#902000
+# green
+palette = 2=#006000
+palette = 10=#006000
+# yellow
+palette = 3=#595000
+palette = 11=#595000
+# blue
+palette = 4=#103077
+palette = 12=#103077
+# magenta
+palette = 5=#700054
+palette = 13=#700054
+# cyan
+palette = 6=#005460
+palette = 14=#005460
+# white
+palette = 7=#213937
+palette = 15=#213937

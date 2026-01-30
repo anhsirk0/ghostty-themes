@@ -1,0 +1,31 @@
+# Doric-Pine Colors
+background = #303f2d
+foreground = #d0e2c8
+selection-background = #70523a
+selection-foreground = #d0e2c8
+cursor-color = #c0a27a
+
+# black
+palette = 0=#40503d
+palette = 8=#40503d
+# red
+palette = 1=#e8a28f
+palette = 9=#e8a28f
+# green
+palette = 2=#a2d09a
+palette = 10=#a2d09a
+# yellow
+palette = 3=#c4b980
+palette = 11=#c4b980
+# blue
+palette = 4=#98bae0
+palette = 12=#98bae0
+# magenta
+palette = 5=#e9acbf
+palette = 13=#e9acbf
+# cyan
+palette = 6=#a0c0d0
+palette = 14=#a0c0d0
+# white
+palette = 7=#d0e2c8
+palette = 15=#d0e2c8

@@ -1,31 +1,31 @@
 # Doric-Fire Colors
-background = #2a281d
-foreground = #f0e5e0
-selection-background = #601a2f
-selection-foreground = #f0e5e0
-cursor-color = #e06e42
+background = #282420
+foreground = #f5ceb0
+selection-background = #7c362c
+selection-foreground = #f5ceb0
+cursor-color = #ef7839
 
 # black
-palette = 0=#40332f
-palette = 8=#40332f
+palette = 0=#40332b
+palette = 8=#40332b
 # red
-palette = 1=#d09090
-palette = 9=#d09090
+palette = 1=#eca27f
+palette = 9=#eca27f
 # green
-palette = 2=#85c397
-palette = 10=#85c397
+palette = 2=#b9d08a
+palette = 10=#b9d08a
 # yellow
-palette = 3=#c4a992
-palette = 11=#c4a992
+palette = 3=#c5ba80
+palette = 11=#c5ba80
 # blue
-palette = 4=#95afd2
-palette = 12=#95afd2
+palette = 4=#9fbfe7
+palette = 12=#9fbfe7
 # magenta
-palette = 5=#c5a3b2
-palette = 13=#c5a3b2
+palette = 5=#e9acbf
+palette = 13=#e9acbf
 # cyan
-palette = 6=#a5bfce
-palette = 14=#a5bfce
+palette = 6=#a0c0d0
+palette = 14=#a0c0d0
 # white
-palette = 7=#f0e5e0
-palette = 15=#f0e5e0
+palette = 7=#f5ceb0
+palette = 15=#f5ceb0

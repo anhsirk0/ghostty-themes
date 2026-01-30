@@ -1,0 +1,31 @@
+# Doric-Oak Colors
+background = #e0d8c7
+foreground = #3a2018
+selection-background = #b1bf88
+selection-foreground = #3a2018
+cursor-color = #497020
+
+# black
+palette = 0=#d5c9b5
+palette = 8=#d5c9b5
+# red
+palette = 1=#982500
+palette = 9=#982500
+# green
+palette = 2=#226700
+palette = 10=#226700
+# yellow
+palette = 3=#595000
+palette = 11=#595000
+# blue
+palette = 4=#103077
+palette = 12=#103077
+# magenta
+palette = 5=#700054
+palette = 13=#700054
+# cyan
+palette = 6=#005460
+palette = 14=#005460
+# white
+palette = 7=#3a2018
+palette = 15=#3a2018

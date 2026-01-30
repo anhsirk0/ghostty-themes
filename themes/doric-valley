@@ -1,0 +1,31 @@
+# Doric-Valley Colors
+background = #383035
+foreground = #e0d5b7
+selection-background = #3d5e57
+selection-foreground = #e0d5b7
+cursor-color = #94d0eb
+
+# black
+palette = 0=#484040
+palette = 8=#484040
+# red
+palette = 1=#eca28f
+palette = 9=#eca28f
+# green
+palette = 2=#b9d0aa
+palette = 10=#b9d0aa
+# yellow
+palette = 3=#c0b060
+palette = 11=#c0b060
+# blue
+palette = 4=#9fbfe7
+palette = 12=#9fbfe7
+# magenta
+palette = 5=#e9acbf
+palette = 13=#e9acbf
+# cyan
+palette = 6=#a0c0d0
+palette = 14=#a0c0d0
+# white
+palette = 7=#e0d5b7
+palette = 15=#e0d5b7
