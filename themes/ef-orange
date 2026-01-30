@@ -1,0 +1,31 @@
+# Ef-Orange Colors
+background = #ffedc9
+foreground = #6c4631
+selection-background = #eeb48f
+selection-foreground = #6c4631
+cursor-color = #cf5f00
+
+# black
+palette = 0=#f7e5b6
+palette = 8=#c9b088
+# red
+palette = 1=#ba2d2f
+palette = 9=#cf2030
+# green
+palette = 2=#007a0a
+palette = 10=#2f783f
+# yellow
+palette = 3=#a05a22
+palette = 11=#aa4f30
+# blue
+palette = 4=#375cc6
+palette = 12=#265fbf
+# magenta
+palette = 5=#ba3e54
+palette = 13=#8448aa
+# cyan
+palette = 6=#467080
+palette = 14=#0f738f
+# white
+palette = 7=#6c4631
+palette = 15=#6f6a70

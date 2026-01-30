@@ -1,0 +1,31 @@
+# Ef-Fig Colors
+background = #3b2043
+foreground = #e4d3e1
+selection-background = #643270
+selection-foreground = #e4d3e1
+cursor-color = #e0646a
+
+# black
+palette = 0=#432e4e
+palette = 8=#6a586e
+# red
+palette = 1=#ef797f
+palette = 9=#e088af
+# green
+palette = 2=#7fbb3f
+palette = 10=#79d081
+# yellow
+palette = 3=#e4c53f
+palette = 11=#eec27f
+# blue
+palette = 4=#57aff6
+palette = 12=#62cff7
+# magenta
+palette = 5=#ffb2d6
+palette = 13=#afb1ff
+# cyan
+palette = 6=#5fc0dc
+palette = 14=#80dfbf
+# white
+palette = 7=#e4d3e1
+palette = 15=#9d9d9d
